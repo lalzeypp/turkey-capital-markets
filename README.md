@@ -24,7 +24,7 @@ XXX
 → [`/equities`](./equities)
 
 ### Weekly Briefs 🗞️
-A weekly one-page brief tracking Turkish markets in real time throughout the rotation — macro data, market moves, a forward view, and catalysts to watch.
+Tracking Turkish markets in real time throughout the rotation — macro data, market moves, a forward view, and catalysts to watch.
 
 → [`/weekly-briefs`](./weekly-briefs)
 
