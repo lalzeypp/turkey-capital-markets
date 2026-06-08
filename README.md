@@ -23,6 +23,7 @@ XXX
 
 → [`/equities`](./equities)
 
+---
  [`Weekly briefs`](./weekly-briefs)
 
 ---
